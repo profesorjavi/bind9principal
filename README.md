@@ -1,5 +1,5 @@
 # bind9 servidor DNS principal
-Configuración de una imagen en Docker de un servidor DNS bind9 a partir de una distribución apline
+Configuración de una imagen en Docker de un servidor DNS bind9 a partir de una distribución Alpine
 
 # Crear una imagen nueva a partir de github
 Podemos crear imágenes nuevas a partir del Dockerfile y utilizarlas en local o subirlas a Dokerhub
