@@ -1,0 +1,4 @@
+clear
+docker build -t bindserver  ./
+docker run -it -d --name bindserver bindserver
+docker ps

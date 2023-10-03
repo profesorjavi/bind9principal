@@ -1,0 +1,4 @@
+ docker stop bindserver
+ docker rm bindserver
+ docker rmi bindserver
+
