@@ -10,5 +10,5 @@ docker build -t="profesorjavi/bin9principal:1.0" github.com/profesorjavi/bind9pr
 -t Indicamos el nombre que utilizaremos para subir/push al repositorio de dockerhub 
 
 ```
-docker push profesorjavi/bin9principal:1.0
+docker push profesorjavi/bind9principal:latest
 ```
