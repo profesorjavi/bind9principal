@@ -7,7 +7,7 @@ Podemos crear imágenes nuevas a partir del Dockerfile y utilizarlas en local o 
 docker build -t="profesorjavi/bind9principal:latest" github.com/profesorjavi/bind9principal
 
 ```
--t Indicamos el nombre que utilizaremos para subir/push al repositorio de dockerhub 
+-t Indicamos el nombre que utilizaremos para subir/push al repositorio de dockerhub y la versión
 
 ```
 docker push profesorjavi/bind9principal:latest
